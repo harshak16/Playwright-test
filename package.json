@@ -1,11 +1,14 @@
 {
   "dependencies": {
+    "allure-commandline": "^2.23.1",
     "chai": "^4.3.8",
     "mocha": "^10.2.0",
     "playwright-core": "^1.37.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.37.1"
+    "@applitools/eyes-playwright": "^1.18.4",
+    "@playwright/test": "^1.37.1",
+    "allure-playwright": "^2.5.0"
   },
   "scripts": {}
 }
